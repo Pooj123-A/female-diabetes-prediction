@@ -9,7 +9,7 @@ import streamlit as st
 def app():
     st.title(' Credits')
 
-    st.write("""The following web application is built and maintained by **Prateek Agrawal** for the sole purpose of learning and displaying the power and usage of machine learning in the field of healthcare. He believes that the Artificial Intelligence and Machine Learning can truly help in making the world a better place to live in.""")
+    st.write("""The following web application is built and maintained by **Km Pooja** for the sole purpose of learning and displaying the power and usage of machine learning in the field of healthcare. He believes that the Artificial Intelligence and Machine Learning can truly help in making the world a better place to live in.""")
 
     st.write("""
 
